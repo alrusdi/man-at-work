@@ -1,0 +1,106 @@
+.content {
+    margin: 0 auto;
+    font-family: Sans;
+}
+[v-cloak] {
+    display: none;
+}
+
+.men-at-work {
+    margin: 0 auto;
+    width: 750px;
+    background: rgb(255, 212, 66);
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.action-type {
+    width: 228px;
+    height: 236px;
+    filter: drop-shadow(9px 9px 9px rgba(0,0,0,0.5));
+}
+
+.action-type--girder {
+    background: url("/img/girder.png");
+}
+
+.action-type--helmet {
+    background: url("/img/helmet.png");
+}
+
+.sidebar, .main {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.sidebar {
+    width: 250px;
+}
+
+.main {
+    width: 480px;
+    vertical-align: top;
+}
+
+.text {
+    font-size: 28px;
+}
+
+.colors {
+    width: 140px;
+    border: 1px solid #d9d8d8;
+    background: #eee;
+    margin: 10px 0 0 44px;
+}
+
+.color {
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 7px 0 7px 7px;
+}
+
+.color--orange {
+    background-color: orangered;
+}
+
+.color--black {
+    background-color: black;
+}
+
+.color--white {
+    background-color: whitesmoke;
+}
+
+.color--violet {
+    background-color: violet;
+}
+
+.next {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.next button {
+    font-size: 30px;
+    padding: 10px 20px;
+}
+
+.counter {
+    position: absolute;
+    background: #fdaa78;
+    border: 1px solid #ec9e6f;
+    border-radius: 15px;
+    padding: 5px 10px;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.boss-rita-mode {
+    background: tomato;
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+

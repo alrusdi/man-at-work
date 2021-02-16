@@ -1,0 +1,38 @@
+{
+	"1": {
+		"en": "Place a worker on a girder and load him with [b]a brick[/b].",
+		"ru": "Поставьте рабочего на балку и загрузите его [b]одним кирпичем[/b]"
+	},
+	"2": {
+		"en": "Place a worker on a girder and load him with [b]two bricks[/b].",
+		"ru": "Поставьте рабочего на балку  и загрузите его [b]двумя кирпичами[/b]"
+	},
+	"3": {
+		"en": "Place a worker on a girder and load him with [b]a beam[/b].",
+		"ru": "Поставьте рабочего на балку и загрузите его [b]одним брусом[/b]"
+	},
+	"4": {
+		"en": "Place a worker on a girder and load him with [b]two beams[/b].",
+		"ru": "Поставьте рабочего на балку и загрузите его [b]двумя брусами[/b]"
+	},
+	"5": {
+		"en": "Place a worker on a girder and load him with [b]a brick and a beam[/b].",
+		"ru": "Поставьте рабочего на балку и загрузите его [b]одним кирпичем и брусом[/b]"
+	},
+	"6": {
+		"en": "Place a worker on one of the [b]outer edges[/b] of a girder.",
+		"ru": "Поставьте рабочего на одном из концов балки"
+	},
+	"7": {
+		"en": "Place a beam on a worker’s shoulder and place both [b]together[/b] on a girder.",
+		"ru": "Разместите брус на плечо рабочего и поставьте их [b]вместе[/b] на балку."
+	},
+	"8": {
+		"en": "Place a worker on a girder and take a beam. Use the beam to [b]connect[/b] this worker to one already placed in the site.",
+		"ru": "Поставьте рабочего на балку и соедините его брусом с другим рабочим, который уже на стройке"
+	},
+	"9": {
+		"en": "Place a worker on a girder, then place [b]another worker[/b] on the same girder.",
+		"ru": "Поставьте рабочего на балку, поставьте [b]еще одного рабочего[/b] на эту же балку"
+	}
+}

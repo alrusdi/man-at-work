@@ -1,0 +1,50 @@
+{
+	"1": {
+		"en": "The girder must balance on [b]only one other girder[/b] and both ends must be in the air.",
+		"ru": "Балка должна опираться [b]только на одну другую балку[/b] и оба конца балки должны висеть в воздухе"
+	},
+	"2": {
+		"en": "The girder must touch [b]another girder[/b] of the [b]same color[/b].",
+		"ru": "Балка должна касаться [b]другой балки того же цвета[/b]"
+	},
+	"3": {
+		"en": "The girder must touch two girders and each of the three must be a different color.",
+		"ru": "Балка должна касаться двух других балок и все три балки должны быть разных цветов"
+	},
+	"4": {
+		"en": "The girder must touch the highest girder in the site.",
+		"ru": "Балка должна касаться самой [b]верхней балки[/b] на стройке"
+	},
+	"5": {
+		"en": "Place the girder anywhere, then [b]add a worker[/b] to it.",
+		"ru": "Произвольно разместите балку и добавьте на нее [b]одного рабочего[/b]"
+	},
+	"6": {
+		"en": "The girder must be placed [b]on a worker’s arm[/b]. Placing it on his hardhat is not allowed.",
+		"ru": "Разместите балку так, чтобы она была на [b]плече[/b] рабочего"
+	},
+	"7": {
+		"en": "First place a [b]new support[/b] in the site. Decide whether on the playing surface or on a girder, and whether standing or lying. Then place your [b]girder[/b]. It must touch the new support and another girder of the [b]same color[/b].",
+		"ru": "Добавьте [b]опору[/b]. Разместите [b]балку[/b] так, чтобы она касалась этой опоры и другой балки [b]такого же цвета[/b]"
+	},
+	"8": {
+		"en": "First place a new support in the site. Decide whether on the playing surface or on a girder, and whether standing or lying. Then place your girder. It must touch the new support and another girder of a differentcolor.",
+		"ru": "Добавьте [b]опору[/b]. Разместите [b]балку[/b] так, чтобы она касалась этой опоры и другой балки [b]другого цвета[/b]"
+	},
+	"9": {
+		"en": "First place a new support on a girder. Decide whether standing or lying.Then place your girder. It must touch the new support and at least one other girder.",
+		"ru": "Добавьте [b]опору[/b] на любую балку. Разместите [b]балку[/b] так, чтобы она касалась новой опоры и хотя бы одной [b]другой балки[/b]"
+	},
+	"10": {
+		"en": "Touch [b]any support[/b] already placed.",
+		"ru": "Разместите балку так, чтобы она касалась опоры"
+	},
+	"11": {
+		"en": "Place a [b]brick[/b] on the girder and place both in the site [b]together[/b]. You decide the brick’s position.",
+		"ru": "Положите [b]кирпич[/b] на свою балку и разместите их на стройке"
+	},
+	"12": {
+		"en": "The girder must touch another girderof the same color.First place a new support in the site. Decide whether on the playing surface or on a girder, and whether standing or lying. Then place your girder. It must touch the new support and another girder of the same color.First place a new support in the site. Decide whether on the playing surface or on a girder, and whether standing or lying. Then place your girder. It must touch the new support and another girder of a differentcolor.The girder must balance on only one other girder and both ends must be in the air.Touch any support already placed.The girder must touch two girders and each of the three must be a different color.The girder must touch the highest girder in the site.First place a new support on a girder. Decide whether standing or lying.Then place your girder. It must touch the new support and at least one other girder.ADDITIONAL RULES:• If the girder you place must touch other girders, it may touch them from above, below, or the side.• In addition to the pieces that your piece must touch, it may also touch any other pieces.• The piece you place must meet all the instructions when you finish placing it.• Bricks and beams must be placed on worker’s arms. If you have to place several bricks and/or beams, you may place them freely on the arms of the worker you just placed and may stack them on top of each other.• If you ever can't comply with an instruction card because the site doesn't contain the pieces it mentions, reveal the next instruction card instead.The girder must be placed on a worker’s arm. Placing it on his hardhat is not allowed.Place a brick on the girder and place both in the site together. You decide the brick’s position.The girder must become the highest girder. It doesn’t have to be the highest piece of any type.",
+		"ru": "Разместите балку так, чтобы она стала [b]самой верхней балкой[/b] на стройке"
+	}
+}
