@@ -9,10 +9,10 @@
 	},
 	"3": {
 		"en": "The girder must touch two girders and each of the three must be a different color.",
-		"ru": "Балка должна касаться двух других балок и все три балки должны быть разных цветов"
+		"ru": "Балка должна касаться двух других балок и [b]все три[/b] балки должны быть разных цветов"
 	},
 	"4": {
-		"en": "The girder must touch the highest girder in the site.",
+		"en": "The girder must touch the [b]highest girder[/b] in the site.",
 		"ru": "Балка должна касаться самой [b]верхней балки[/b] на стройке"
 	},
 	"5": {

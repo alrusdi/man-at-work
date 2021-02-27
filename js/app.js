@@ -115,7 +115,7 @@ const MenAtWorkHelper = {
             </div>
             <div class="main">
                 <div class="boss-rita-mode" v-if="isRitaBossMode">
-                    Получите награду <b>Рабочий месяца</b> если ставите нивысший элемент на стройку
+                    Получите награду <b>Рабочий месяца</b> если ставите наивысший элемент на стройку
                 </div>
                 <div class="text" v-html="rightCard.text"></div>
                 <div class="next">
